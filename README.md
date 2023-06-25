@@ -1,2 +1,2 @@
 # VS_Code
-Files uploaded by raising PR from VS_Code_ projects
+Packt project from VS_Code_ projects
